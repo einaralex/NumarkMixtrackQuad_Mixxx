@@ -8,7 +8,7 @@
 // 30/10/2014  Einar Alex - einar@gmail.com
 //
 
-// **** MIXXX v11.1.0 ****
+// **** MIXXX v1.11.0 ****
 // Known Bugs:
 //	Each slide/knob needs to be moved on Mixxx startup to match levels with the Mixxx UI
 //
