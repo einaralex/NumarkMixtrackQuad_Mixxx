@@ -1,7 +1,7 @@
 NumarkMixtrackQuad_Mixxx
 ========================
 
-Mixxx v11.1.0 mapper fo Numark Mixtrack Quad 
+Mixxx v11.1.0 mapper for Numark Mixtrack Quad 
 
 This is a work in progress.
 
@@ -17,7 +17,7 @@ What should be working.
 -  Scratch/CD mode toggle (kinda)
 -	Headphone output toggle 
 -	Play, Sync, Cue
--	Samples
+-	Samples, only 4, each channel triggers the same samples
 -	HotCues
     - (1-3) Hot cue
     - (4) Deletes hot cues
@@ -40,6 +40,6 @@ What should be working.
 -  Shift + pads
 -  LED
 -  Pitch Bend on outer jogwheel
--  4 decks?
--	Clean up code, some features are already available.
+-  4 decks? 16 samples?
+-  Redo/Clean up code, some features are already available.
 -  More?
