@@ -1,7 +1,7 @@
 NumarkMixtrackQuad_Mixxx
 ========================
 
-Mixxx v11.1.0 mapper for Numark Mixtrack Quad 
+Mixxx v1.11.0 mapper for Numark Mixtrack Quad 
 
 This is a work in progress.
 
