@@ -36,8 +36,7 @@ What should be working.
   - Fix:    `Preferences > Interface > Pitch/Rate slider direction > Down increases speed`
 -  Effects
 -  Stutter
--  Shift + Sync
--  Shift + pads
+-  Shift + Sync, pads, keylock etc.
 -  LED
 -  Pitch Bend on outer jogwheel
 -  4 decks? 16 samples?
